@@ -1,0 +1,432 @@
+{
+  "entities": {
+    "Q15241312": {
+      "pageid": 16889997,
+      "ns": 0,
+      "title": "Q15241312",
+      "lastrevid": 361032633,
+      "modified": "2016-07-31T21:13:07Z",
+      "type": "item",
+      "id": "Q15241312",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "Freebase Data Dumps"
+        },
+        "de": {
+          "language": "de",
+          "value": "Freebase-Datendump"
+        },
+        "it": {
+          "language": "it",
+          "value": "Freebase Data Dumps"
+        },
+        "pt-br": {
+          "language": "pt-br",
+          "value": "Despejos de Dados do Freebase"
+        },
+        "pt": {
+          "language": "pt",
+          "value": "Armazéns de Dados do Freebase"
+        },
+        "ko": {
+          "language": "ko",
+          "value": "Freebase 데이터 덤프"
+        },
+        "pl": {
+          "language": "pl",
+          "value": "Freebase Data Dumps"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "выгрузка данных Freebase"
+        },
+        "sv": {
+          "language": "sv",
+          "value": "Freebase Data Dumps"
+        },
+        "cs": {
+          "language": "cs",
+          "value": "Freebase Data Dump"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "Freebase Data Dumps"
+        },
+        "lv": {
+          "language": "lv",
+          "value": "Freebase datu ielāde"
+        },
+        "nds": {
+          "language": "nds",
+          "value": "Freebase-Datendump"
+        },
+        "fa": {
+          "language": "fa",
+          "value": "دامپ دادگان فری‌بیس"
+        },
+        "vi": {
+          "language": "vi",
+          "value": "Kết xuất Dữ liệu Freebase"
+        },
+        "hi": {
+          "language": "hi",
+          "value": "फ्रीबेस डेटा डंप"
+        },
+        "be": {
+          "language": "be",
+          "value": "выгрузка даных Freebase"
+        },
+        "en-gb": {
+          "language": "en-gb",
+          "value": "Freebase Data Dumps"
+        },
+        "he": {
+          "language": "he",
+          "value": "אוסף נתוני Freebase"
+        },
+        "sco": {
+          "language": "sco",
+          "value": "Freebase Data Dumps"
+        },
+        "ca": {
+          "language": "ca",
+          "value": "Google Freebase Data Dump"
+        },
+        "el": {
+          "language": "el",
+          "value": "Freebase Data Dumps"
+        },
+        "ml": {
+          "language": "ml",
+          "value": "ഫ്രീബേസ് ഡാറ്റാ ഡമ്പ്"
+        },
+        "uk": {
+          "language": "uk",
+          "value": "Freebase Data Dumps"
+        },
+        "sl": {
+          "language": "sl",
+          "value": "Freebase Data Dumps"
+        },
+        "hu": {
+          "language": "hu",
+          "value": "Freebase-adatdump"
+        },
+        "da": {
+          "language": "da",
+          "value": "Freebase-datadump"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "Freebase データダンプ"
+        },
+        "sk": {
+          "language": "sk",
+          "value": "Freebase Data Dump"
+        },
+        "scn": {
+          "language": "scn",
+          "value": "copî dî dati di Freebase"
+        },
+        "mk": {
+          "language": "mk",
+          "value": "базна резерва на Freebase"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "sauvegarde de la base de données Freebase"
+        },
+        "es": {
+          "language": "es",
+          "value": "Freebase Data Dump"
+        },
+        "zh-hans": {
+          "language": "zh-hans",
+          "value": "Freebase数据转储"
+        },
+        "ar": {
+          "language": "ar",
+          "value": "تفريغات بيانات Freebase"
+        },
+        "nb": {
+          "language": "nb",
+          "value": "Freebase Data Dumps"
+        },
+        "nn": {
+          "language": "nn",
+          "value": "Freebase Data Dumps"
+        },
+        "is": {
+          "language": "is",
+          "value": "Freebase Data Dumps"
+        },
+        "te": {
+          "language": "te",
+          "value": "ఫ్రీబేస్ డేటా డంప్స్"
+        },
+        "bn": {
+          "language": "bn",
+          "value": "ফ্রিবেস ডেটা ডাম্প"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "dumps of the public part of Google's Knowledge Graph"
+        },
+        "it": {
+          "language": "it",
+          "value": "copia del database Freebase"
+        },
+        "ko": {
+          "language": "ko",
+          "value": "구글 지식 그래프의 공공부분에 대한 덤프"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "копия базы Freebase для скачивания"
+        },
+        "be": {
+          "language": "be",
+          "value": "копія базы Freebase для спампоўкі"
+        },
+        "en-gb": {
+          "language": "en-gb",
+          "value": "dumps of the public part of Google's Knowledge Graph"
+        },
+        "he": {
+          "language": "he",
+          "value": "תוצאת יצוא של החלק הפתוח של \"גרף הידע\" של גוגל"
+        },
+        "ca": {
+          "language": "ca",
+          "value": "Còpia de la base de dades Freebase de Google"
+        },
+        "fa": {
+          "language": "fa",
+          "value": "دامپ‌های بخش عمومی نمودار دانش گوگل"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "Google の知識グラフの公開部分のダンプ"
+        },
+        "scn": {
+          "language": "scn",
+          "value": "copî dâ parti lìbbira dâ basi di dati Freebase"
+        },
+        "mk": {
+          "language": "mk",
+          "value": "складирани податоци од јавниот дел на Графиконот на знаења на Google"
+        },
+        "de": {
+          "language": "de",
+          "value": "Datenbankdumps des Google Knowledge Graph"
+        },
+        "zh-hans": {
+          "language": "zh-hans",
+          "value": "Google知识图谱的公开部分的转储"
+        },
+        "ar": {
+          "language": "ar",
+          "value": "تفريغات بيانات من الجزء العمومي لمخطط Freebase للمعارف الحرة"
+        },
+        "pt-br": {
+          "language": "pt-br",
+          "value": "despejos (dumps) da parte pública do Knowledge Graph do Google"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "sauvegarde du Knowledge Graph de Google"
+        },
+        "es": {
+          "language": "es",
+          "value": "volcados de memoria de los datos públicos de la base de conocimiento usada por Google ('Knowledge Graph' (Q648625))"
+        },
+        "te": {
+          "language": "te",
+          "value": "గూగుల్ నాలెజ్ గ్రాఫ్ లోని జాతీయం చేసిన సమాచార డంపులు"
+        }
+      },
+      "aliases": {
+        "pt": [
+          {
+            "language": "pt",
+            "value": "Freebase Data Dumps"
+          },
+          {
+            "language": "pt",
+            "value": "Dumps de Dados do Freebase"
+          }
+        ],
+        "ru": [
+          {
+            "language": "ru",
+            "value": "дамп базы Freebase"
+          }
+        ],
+        "en": [
+          {
+            "language": "en",
+            "value": "Google Freebase Data Dumps"
+          },
+          {
+            "language": "en",
+            "value": "Google Knowledge Graph Data Dumps"
+          }
+        ],
+        "zh-hans": [
+          {
+            "language": "zh-hans",
+            "value": "Google Freebase数据转储"
+          },
+          {
+            "language": "zh-hans",
+            "value": "Google知识图谱数据转储"
+          }
+        ],
+        "de": [
+          {
+            "language": "de",
+            "value": "Google Knowledge Graph"
+          }
+        ],
+        "fa": [
+          {
+            "language": "fa",
+            "value": "آزاد پایه"
+          }
+        ],
+        "ja": [
+          {
+            "language": "ja",
+            "value": "Google Freebase Data Dump"
+          }
+        ],
+        "pt-br": [
+          {
+            "language": "pt-br",
+            "value": "Dumps de Dados do Freebase"
+          },
+          {
+            "language": "pt-br",
+            "value": "Google Freebase Data Dumps"
+          },
+          {
+            "language": "pt-br",
+            "value": "Freebase Data Dumps"
+          },
+          {
+            "language": "pt-br",
+            "value": "Dumps de Dados do Google Freebase"
+          }
+        ],
+        "bn": [
+          {
+            "language": "bn",
+            "value": "মুক্তভিত উপাত্ত আবরজনা"
+          }
+        ]
+      },
+      "claims": {
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1172362,
+                  "id": "Q1172362"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q15241312$b2fc2940-42ed-8204-ddfd-02ad92f7dd29",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 21027609,
+                  "id": "Q21027609"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q15241312$d249942d-4333-4764-130d-d13ac829712d",
+            "rank": "normal"
+          }
+        ],
+        "P361": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P361",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1453477,
+                  "id": "Q1453477"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q15241312$87d71be8-4923-7b6e-0956-5ec4329115bf",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P361",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 648625,
+                  "id": "Q648625"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q15241312$5383e404-42ca-025a-e6c5-f31cb5217fe0",
+            "rank": "normal"
+          }
+        ],
+        "P123": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P123",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 95,
+                  "id": "Q95"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q15241312$88fea89b-4c1a-a98d-9282-b1c6cb323002",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": []
+    }
+  }
+}
